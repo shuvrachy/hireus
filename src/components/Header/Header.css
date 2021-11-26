@@ -1,0 +1,26 @@
+body {
+    background: url('../../images/banner-3.jpg') no-repeat;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.header {
+    background: url('../../images/website-development-banner.png') no-repeat;
+    height: 250px;
+    border: 2px solid rgb(25, 155, 236);
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+h1 {
+    color: honeydew;
+    font-size: 36px;
+}

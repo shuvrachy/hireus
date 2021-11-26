@@ -1,0 +1,16 @@
+.cart {
+    background-color: rgba(0, 0, 248, 0.200);
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(65, 64, 64, 0.4);
+    color: white;
+
+}
+
+span {
+    color: yellow;
+}
+h2 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
